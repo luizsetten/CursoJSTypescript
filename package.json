@@ -26,6 +26,6 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   }
 }
